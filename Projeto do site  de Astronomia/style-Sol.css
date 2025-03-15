@@ -1,0 +1,171 @@
+body{
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+    color: white;
+    overflow: hidden;
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+
+header{
+    background-color: black;
+    padding-bottom: 30px;
+    
+} 
+
+header img{
+    width:70px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+nav{
+    display: flex;
+}
+
+.menu{ 
+    margin-top: 50px;
+    margin-left: 40px;
+    
+
+}
+.line1{
+    background-color:#675ae2;
+    width: 30px;
+    height: 5px;
+    margin-bottom: 3px;
+    border-radius: 10px;
+}
+
+.line2{
+    background-color:#675ae2;
+    width: 30px;
+    height: 5px;
+    margin-bottom: 3px;
+    border-radius: 5px;
+
+}
+
+.line3{
+    background-color: #675ae2;
+    width: 30px;
+    height: 5px;
+    border-radius: 5px;
+
+}
+
+.Barra-pesquisa{
+    background-color: rgb(0, 0, 0);
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 400px;
+    border-radius: 50px;
+    border-color: #675ae2;
+    border-style: solid;
+    
+
+    
+}
+
+.Barra-pesquisa img{
+    width: 40px;
+    margin-left: 500px;
+    margin-bottom: -20px;
+    margin-top: 7px;
+    margin-right: 10px;
+    
+   
+}
+
+nav h1{
+    color: #675ae2;
+    margin-left: 40px;
+    margin-top: 40px;
+    font-family:monospace;
+    
+    
+}
+
+.h1s{
+    margin-left: 200px;
+}
+
+.planetas{
+    display: flex;
+    color: #675ae2;
+    width: 100%;
+    
+    
+    
+}
+
+.planetas h1{
+    padding-left: 66px;
+    padding-right: 66px;
+    margin-bottom: -30px;
+    border-color: #675ae2;
+    border: 1px;
+    border-style: solid;
+    font-family:monospace;
+    
+}
+
+.planetas h1 a{
+    text-decoration: none;
+    color: #675ae2;
+}
+
+.conteudo{
+    background-color: rgb(15, 15, 15);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    padding: 10px;
+    display: flex;
+    border: 4px;
+    border-style: solid;
+    outline: 3px;
+    outline-style: solid;
+    outline-color: #675ae2;
+    
+
+}
+.principal{
+    margin-left: 100px;
+}
+
+.principal p{
+    margin-right: 200px;
+    text-align: left;
+
+}
+.lateral{
+    margin-left: 100px;
+    margin-top: 30px;
+    border: 1px;
+    border-color: white;
+    border-style: solid;
+    
+}
+
+.lateral img{
+    width: 300px;
+    
+}
+
+.dadosob{
+    background-color: #675ae2;
+   margin-top: -21px;
+   
+   .dadosob h2{
+    text-align: center;
+}
+   
+}
+
+
+
+
